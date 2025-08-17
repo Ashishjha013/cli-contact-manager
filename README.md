@@ -21,29 +21,6 @@ A simple **command-line application** built with **Node.js** that lets you manag
 
 ---
 
-## 📂 Project Structure
-
-contact-management/  
-│── index.js # Main application file  
-│── package.json # Node.js dependencies  
-│── README.md # Project documentation
-
----
-
-## ⚙️ Installation & Setup
-
-1. Clone the repository  
-   git clone https://github.com/your-username/contact-management.git  
-   cd contact-management
-
-2. Install dependencies  
-   npm install prompt-sync
-
-3. Run the app  
-   node index.js
-
----
-
 ## 🖥️ Usage
 
 When you run the app, you’ll see:
@@ -78,23 +55,5 @@ Enter an operation (1-5): 3
 Name: Alice  
 Email: alice@example.com
 
----
-
-## 📌 Future Improvements
-
-- Save contacts to a **JSON/Database file** (persistent storage)
-- Add **phone number support**
-- Export contacts to **CSV**
-- Improve **search (regex / multiple fields)**
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to open issues and submit pull requests.
-
----
-
-## 📜 License
 
 This project is licensed under the **MIT License** – free to use, modify, and distribute.
