@@ -55,5 +55,11 @@ Enter an operation (1-5): 3
 Name: Alice  
 Email: alice@example.com
 
+---
 
-This project is licensed under the **MIT License** – free to use, modify, and distribute.
+## 📬 Connect with Me
+
+- 🔗 GitHub: [Ashishjha013](https://github.com/Ashishjha013)
+- 💼 LinkedIn: [Ashish Jha](https://www.linkedin.com/in/ashishjha13/)
+- 📧 Email: [ashishjha1304@gmail.com](mailto:ashishjha1304@gmail.com)
+
